@@ -56,3 +56,8 @@ body {
     border-radius: .5rem;
     cursor: pointer;
 }
+
+.memes--image {
+    width: 100%;
+    border-radius: .25rem;
+}
